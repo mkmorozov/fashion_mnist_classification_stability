@@ -12,4 +12,4 @@ Not surprisingly, models with convolution layers can tolerate shifts a bit bette
 
 ## How to use
 
-I prefer Tensor Flow-based notebooks in a container, hence the Docker file. PowerShell scripts _build.ps1_ and _run.ps1_ show the Docker commands to build and run the container.
+I prefer running Tensor Flow-based notebooks in a container, hence the Docker file. PowerShell scripts _build.ps1_ and _run.ps1_ show the Docker commands to build and run the container.
